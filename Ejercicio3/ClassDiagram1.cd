@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="PatronesDisenio.Ejercicio3.CommandInvoker">
+    <Position X="5" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ejercicio3\CommandInvoker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatronesDisenio.Ejercicio3.CompleteTaskCommand" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="3.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQAAABAAACAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Ejercicio3\CompleteTaskCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PatronesDisenio.Ejercicio3.CreateTaskCommand" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="3.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAABAQAAAAAAAAAAAAAAAgAAAAAAAAAABA=</HashCode>
+      <FileName>Ejercicio3\CreateTaskCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PatronesDisenio.Ejercicio3.DeleteTaskCommand" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="3.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQAAABACAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Ejercicio3\DeleteTaskCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PatronesDisenio.Ejercicio3.EditTaskCommand" BaseTypeListCollapsed="true">
+    <Position X="9" Y="6.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQAAABAAAAAABAAAAABAAAAAAAAABA=</HashCode>
+      <FileName>Ejercicio3\EditTaskCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PatronesDisenio.Ejercicio3.TaskItem">
+    <Position X="2" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAIEAAAAAAAAEAAAAAACAQAAAAAAAgA=</HashCode>
+      <FileName>Ejercicio3\TaskItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatronesDisenio.Ejercicio3.TaskService">
+    <Position X="1.75" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAEAAAIABAACAAAAAAEAAEACAQAAAAAAAIA=</HashCode>
+      <FileName>Ejercicio3\TaskService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="PatronesDisenio.Ejercicio3.ICommand">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ejercicio3\ICommand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
