@@ -17,4 +17,11 @@ En la carpeta **Diagramas** encontrarás el diagrama de clases correspondiente a
    ```bash
    git clone https://github.com/isaza612/Patrones_De_Diseno.git
 
+## Patrones utilizados
+
+1. **Ejercicio 1 - Notificaciones a los clientes** Estructural - Decorator
+2. **Ejercicio 2 - Constructor de reportes personalizados** Creacional - Builder
+3. **Ejercicio 3 - Sistema de gestión de tareas** Comportamiento - Command 
+4. **Ejercicio 4 - Sistema de gestión de archivos y carpetas** Estructural - Composite
+
 ## Grupo de trabajo 5

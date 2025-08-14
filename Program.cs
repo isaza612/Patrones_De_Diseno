@@ -103,7 +103,7 @@ Console.WriteLine("--------------------Fin ejercicio 3--------------------\n\n")
 
 
 Console.WriteLine("--------------------Inicio ejercicio 4--------------------");
-Console.WriteLine("Patrón comportamiento -> Command\n");
+Console.WriteLine("Patrón estructural -> Composite\n");
 
 var root = new Folder("root");
 var docs = new Folder("docs");
